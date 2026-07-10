@@ -14,7 +14,7 @@
 
 ## What is this?
 
-A curated list of **verified** projects in the "living interface" space. Each entry was checked against GitHub, Product Hunt, Hacker News, Reddit, X, or the project's own site. Unverified names from earlier research passes were dropped rather than repeated.
+A curated list of **verified** projects in the "living interface" space: tools that visualize agents, systems, or activity as **characters, worlds, or spatial arenas**, not plain logs, charts, or exchange homepages. Each entry was checked against GitHub, Product Hunt, Hacker News, Reddit, X, or the project's own site.
 
 <br>
 
@@ -27,7 +27,6 @@ A curated list of **verified** projects in the "living interface" space. Each en
 - [Combat and Strategy Arenas](#combat-and-strategy-arenas)
 - [Security War Rooms](#security-war-rooms)
 - [Fleet and Observability](#fleet-and-observability)
-- [Trading Arenas](#trading-arenas)
 - [Checked, not included](#checked-not-included)
 - [Rejected / unverified](#rejected--unverified)
 - [Future schema](#future-schema)
@@ -38,13 +37,13 @@ A curated list of **verified** projects in the "living interface" space. Each en
 
 ## Pixel Offices
 
-> The most saturated category. Nearly everything here traces back to [Pixel Agents](https://github.com/pablodelucca/pixel-agents) by Pablo De Lucca (r/ClaudeCode, Feb 2026), which spawned 15+ forks within months. The shared pattern: your coding agent becomes a pixel character that walks, sits, types, and pops a speech bubble when it needs approval.
+> The most saturated category. Nearly everything here traces back to [Pixel Agents](https://github.com/pixel-agents-hq/pixel-agents) by Pablo De Lucca (r/ClaudeCode, Feb 2026), which spawned 15+ forks within months. The shared pattern: your coding agent becomes a pixel character that walks, sits, types, and pops a speech bubble when it needs approval.
 
 ### Origins and ports
 
-- [Pixel Agents](https://github.com/pablodelucca/pixel-agents) · The original. VS Code extension + standalone CLI, sprite agents, office editor, 64×64 grid. `Open Source`
+- [Pixel Agents](https://github.com/pixel-agents-hq/pixel-agents) · The original (transferred from `pablodelucca`). VS Code extension + standalone CLI, sprite agents, office editor, multi-provider hooks. `Open Source`
 - [Pixel Office (JetBrains)](https://plugins.jetbrains.com/plugin/31298) · IntelliJ port with 80+ furniture items and alien/cat/zoo themes. `Open Source`
-- [pixel-agents-gemini](https://github.com/hyungseokyoon) · Gemini CLI variant. `Open Source`
+- [pixel-agents-gemini](https://github.com/ajjamus/pixel-agents-gemini) · Gemini CLI variant. `Open Source`
 - [pixel-agents-codex](https://github.com/MichaelMa907) · Codex variant. `Open Source`
 - [pixel-agents-cursor](https://github.com/ananasDDA) · Cursor variant. `Open Source`
 - [opencode-pixel-office](https://ddx-510.github.io/opencode-pixel-office) · OpenCode + Claude Code at once, mobile companion via QR. `Open Source`
@@ -65,7 +64,7 @@ A curated list of **verified** projects in the "living interface" space. Each en
 - [agents-in-the-office](https://github.com/gukosowa/agents-in-the-office) · Tauri app; NPCs mirror Claude Code / Gemini CLI actions; subagent badges, sound packs, i18n. `Open Source`
 - [Claude Office Visualizer](https://github.com/paulrobello/claude-office) · Multi-floor building with a cross-session Command Center and 12-mode whiteboard. `Open Source`
 - [aphae](https://github.com/rsanandres/aphae) · Godot 4 life sim: relationships, aging, death, RimWorld-style Drama Director. `Open Source`
-- [agent-office (Pixel-Process-UG)](https://github.com/fwartner/clawd-office) · Telegram bot control, Slack/GitHub/Linear hooks, office-hours config, team voting. `Open Source`
+- [agent-office (Pixel-Process-UG)](https://github.com/Pixel-Process-UG/agent-office) · Telegram bot control, Slack/GitHub/Linear hooks, office-hours config, team voting. `Open Source`
 - [Agent Town (OpenClaw)](https://github.com/geezerrrr/agent-town) · Built on OpenClaw. Walk the office as the boss; town map and marketplace; cloud version planned. `Open Source`
 - [Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) · HTML/JS office with daily notes and guest agents dropping by. `Open Source` (art assets non-commercial)
 - [Bit Office](https://www.producthunt.com/products/github-311) · Leader model with planning/coding/review rooms and 12 selectable themes. `Open Source`
@@ -77,7 +76,7 @@ A curated list of **verified** projects in the "living interface" space. Each en
 - [pixtuoid](https://github.com/IvanWng97/pixtuoid) · Terminal-native Rust app, half-block pixel art, 9+ agent CLIs, office cat/dog. `Open Source`
 - [pixel-office-openclaw](https://github.com/neomatrix25/pixel-office-openclaw) · Auto-detects local OpenClaw instances. Express + Canvas. `Open Source`
 - [Outworked](https://github.com/outworked/outworked) · Electron/Mac app; agents as employees; git panel, cost dashboard, 8-bit soundtrack. `Open Source` (GPL-3.0)
-- [pixel-agent-desk](https://github.com/Mgpixelart/pixel-agent-desk) · Electron app with GitHub-style activity heatmap and token cost analytics. `Open Source`
+- [pixel-agent-desk](https://github.com/zep-ia/pixel-agent-desk) · Electron app with GitHub-style activity heatmap and token cost analytics. `Open Source`
 - [Agent Pixels](https://agent-pixels.com) · Paperclip plugin with security-cam framing and multiple camera views. `Free plugin`
 
 ### Worlds and isometric
@@ -167,22 +166,6 @@ A widely shared critique, *"This Viral AI Tool Does Nothing, But Developers Can'
 - [AgentFactorio](https://github.com/gmuffiness/agent-factorio) · Gather.town-style 2D spatial map for team agent directories. Departments as rooms, agents as avatars, cost analytics. `Open Source`
 - [PixelPulse](https://github.com/RevanKumarD/pixelpulse) · Real-time pixel-art observability for LangGraph, CrewAI, AutoGen, and more. Pipeline stages, speech bubbles, particle flows. `Open Source`
 - [AgentViz](https://github.com/tonystark3110/AGENTVIZ) · Python decorator that renders agents as 3D robots with live token streams, trace trees, and session replay. `Open Source`
-- [Agent Flow](https://github.com/patoles/agent-flow) · Live node-graph visualization of Claude Code and Codex orchestration with hooks, transcripts, and file heatmaps. `Open Source`
-
-<br>
-
-## Trading Arenas
-
-> Not spatial in the pixel-office sense. Here the "world" is the market itself: leaderboard-driven, spectator-sport framings of AI models trading real money, covered heavily on X and crypto media.
-
-- [Alpha Arena (Nof1.ai)](https://nof1.ai) · Frontier LLMs (GPT-5, Claude, Gemini, Grok, DeepSeek, Qwen) each trade $10k real capital on Hyperliquid. On-chain, public leaderboard. Raised $15M from Sui Group + Karatage. `Live` `Funded`
-- [SQUEAK](https://sqeak.xyz) · Live research lab where 7 LLM agents each trade $50k in real US equities. Season-based public leaderboard. `Live`
-- [Rallies.ai AI Trading Arena](https://rallies.ai) · Same concept applied to US equities and indices. `Live`
-- [Strategy Arena](https://strategyarena.io/ai-arena) · Six LLMs duel on live Bitcoin data every 30 minutes. Virtual capital, but real API calls and public reasoning logs. `Live` `Paper`
-- [Agent Arena (Arbitrum)](https://blog.arbitrum.io/agent-arena) · On-chain competition between crypto-native AI trading teams, $10k each, fully observable on-chain. `Live`
-- [BingX AI Arena](https://bingx.com) · Exchange-run arena; live AI models trading perps side by side with one-click copy trading. `Commercial`
-- [AI Arena](https://playtoearn.com/blockchaingame/ai-arena) · NFT fighters trained by humans, battle autonomously, earn $NRN. Train/fight/earn framing, but combat not markets. `Live` `Web3`
-- [IMMT](https://immt.io) · Crypto trading + AI advisor with a MetaWorld for crafting AI characters. Closest to a visual trading-world concept, but primarily DeFi/AI-agent. `Commercial`
 
 <br>
 
@@ -190,9 +173,15 @@ A widely shared critique, *"This Viral AI Tool Does Nothing, But Developers Can'
 
 | Category | What turned up | Why it was skipped |
 | :-- | :-- | :-- |
+| AI trading leaderboards | [Alpha Arena](https://nof1.ai), [SQUEAK](https://sqeak.xyz), [Strategy Arena](https://strategyarena.io/ai-arena), [Rallies.ai Arena](https://rallies.ai) | Public trading competitions with PnL charts and leaderboards, not spatial character/world interfaces |
+| Exchange marketing pages | [BingX AI Arena](https://bingx.com/en/support/articles/ai-arena) | Exchange promo page, not a dedicated living-interface product |
+| On-chain trading announcements | [Agent Arena (Arbitrum)](https://blog.arbitrum.io/agent-arena) | Blog post about a competition, not a visualization product |
+| DeFi / trading terminals | [IMMT](https://immt.io) | Crypto trading and tokenomics first; MetaWorld is secondary |
+| NFT fighting games | [AI Arena](https://playtoearn.com/blockchaingame/ai-arena) | Human-trained NFT fighters, not agent-activity visualization |
 | DevOps / Kubernetes village | Azure Digital Twins Explorer, Databricks digital twin, NVIDIA Omniverse | Real 3D/IoT modeling tools, not gamified pixel-world dashboards |
 | CRM-as-houses, logistics warehouse | Generic gamified CRM SaaS and standard kanban tools | Gamification is not a living world; no spatial or character metaphor |
-| Pure graph orchestration UIs | LangGraph Studio, LangSmith trace views | Timeline and DAG views, not embodied characters or worlds |
+| Pure graph orchestration UIs | [Agent Flow](https://github.com/patoles/agent-flow), LangGraph Studio, LangSmith | Flowcharts and trace timelines, not embodied characters or worlds |
+| Broken / unverified pixel forks | `hyungseokyoon/pixel-agents-gemini` (404) | Use [ajjamus/pixel-agents-gemini](https://github.com/ajjamus/pixel-agents-gemini) or upstream [pixel-agents-hq](https://github.com/pixel-agents-hq/pixel-agents) multi-provider support instead |
 
 <br>
 
