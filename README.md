@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="cover.png" alt="Awesome Living Interfaces cover art" width="100%">
+
 # Awesome Living Interfaces
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
