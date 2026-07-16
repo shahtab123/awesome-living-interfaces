@@ -46,8 +46,8 @@ A curated list of **verified** projects in the "living interface" space: tools t
 - [Pixel Agents](https://github.com/pixel-agents-hq/pixel-agents) · The original (transferred from `pablodelucca`). VS Code extension + standalone CLI, sprite agents, office editor, multi-provider hooks. `Open Source`
 - [Pixel Office (JetBrains)](https://plugins.jetbrains.com/plugin/31298) · IntelliJ port with 80+ furniture items and alien/cat/zoo themes. `Open Source`
 - [pixel-agents-gemini](https://github.com/ajjamus/pixel-agents-gemini) · Gemini CLI variant. `Open Source`
-- [pixel-agents-codex](https://github.com/MichaelMa907) · Codex variant. `Open Source`
-- [pixel-agents-cursor](https://github.com/ananasDDA) · Cursor variant. `Open Source`
+- [pixel-agents-codex](https://github.com/MichaelMa907/pixel-agents-codex) · Codex variant. `Open Source`
+- [pixel-agents-cursor](https://github.com/ananasDDA/pixel-agents-cursor) · Cursor variant. `Open Source`
 - [opencode-pixel-office](https://ddx-510.github.io/opencode-pixel-office) · OpenCode + Claude Code at once, mobile companion via QR. `Open Source`
 - [pixel-agents (Cursor)](https://github.com/nicholasfrei/pixel-agents) · Cursor-specific VSIX fork of Pixel Agents. Install from GitHub Releases. `Open Source`
 
