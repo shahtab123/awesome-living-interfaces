@@ -61,9 +61,17 @@ A curated list of **verified** projects in the "living interface" space: tools t
 - [RoadBitOffice](https://github.com/BlackRoad-Forge/RoadBitOffice) · PixiJS pixel office for multi-agent collaboration with gateway daemon and mobile pair-code access. `Open Source`
 - [AI Factory Floor](https://github.com/KyleBuildsAI/ai-factory-floor) · ChatDev-inspired multi-agent factory. Manager decomposes prompts; specialists work at PixiJS stations with speech bubbles and a live task board. `Open Source`
 - [Mission Control Office Prompt Kit](https://noobster97.github.io/youtube-video-local-agent-mission-control-ui-dashboard/) · Interactive prompt kit to design team, characters, and office map, then build a Claude Code pixel office. Tutorial: [YouTube](https://www.youtube.com/watch?v=knZuRQi2Gag). `Tutorial`
+- [Pixel Office (KalebKE)](https://github.com/KalebKE/PixelOffice) · Claude Code and Codex lifecycle hooks drive think/whiteboard/code/celebrate states; idle agents patrol and chat; per-project furniture and pets. `Open Source`
+- [Agent Virtual Office](https://github.com/KbWen/agent-virtual-office) · Browser SVG pixel office for Claude Code, Codex, Gemini CLI, and CI status posts. Coffee breaks, blocked states, and ship moments. `Open Source`
+- [PixelOps](https://github.com/michaelpentz/PixelOps) · Tauri desktop app: Claude/Codex/Gemini sessions as isometric office characters moving between code bench, terminal, research, test, and deploy stations. `Open Source`
+- [Munder Difflin](https://github.com/HarnessMD/munder-difflin) · Multi-agent harness: real CLI agents as Pixi.js office avatars, Michael orchestrator, flying message envelopes, shared memory. `Open Source`
+- [AgentOffice (fakeou)](https://github.com/fakeou/agent-office) · Local-first supervisor: Claude and Codex as employees with statuses, click-to-terminal, and remote relay. Site: [agentoffice.top](https://agentoffice.top). `Open Source`
+- [Sage Team](https://github.com/Petriccone/sage-team) · Eleven Claude Code agents as a software company with PixiJS isometric office, scrum board, and PR workflow. `Open Source`
 
 ### Offices and life sims
 
+- [BagIdea Office](https://github.com/bagidea/bagidea-office) · HD-2D Godot office as desktop wallpaper. Real Claude Code agents walk desks, hold meetings, ask permission at Security. Site: [bagidea.github.io/bagidea-office](https://bagidea.github.io/bagidea-office/). `Open Source`
+- [PixelDesk](https://pixeldesk.ai) · Top-down pixel office where humans and AI agents (Claude Code, Cursor, OpenClaw, Hermes, etc.) share a place with proximity chat and cost transparency. Docs: [pixeldesk-public](https://github.com/josueramosleites-collab/pixeldesk-public). `Open Core`
 - [AgentOffice](https://github.com/harishkotra/agent-office) · Self-growing office where agents hire interns. Phaser + React, Ollama-powered, capped at 7 agents. `Open Source`
 - [agents-in-the-office](https://github.com/gukosowa/agents-in-the-office) · Tauri app; NPCs mirror Claude Code / Gemini CLI actions; subagent badges, sound packs, i18n. `Open Source`
 - [Claude Office Visualizer](https://github.com/paulrobello/claude-office) · Multi-floor building with a cross-session Command Center and 12-mode whiteboard. `Open Source`
@@ -78,6 +86,7 @@ A curated list of **verified** projects in the "living interface" space: tools t
 ### Terminal, desktop, and plugins
 
 - [pixtuoid](https://github.com/IvanWng97/pixtuoid) · Terminal-native Rust app, half-block pixel art, 9+ agent CLIs, office cat/dog. `Open Source`
+- [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) · Pixel desktop pet for 20+ coding agents; animated states, permission bubbles, session HUD, mobile PWA. Site: [clawdondesk.com](https://clawdondesk.com/). `Open Source`
 - [pixel-office-openclaw](https://github.com/neomatrix25/pixel-office-openclaw) · Auto-detects local OpenClaw instances. Express + Canvas. `Open Source`
 - [Outworked](https://github.com/outworked/outworked) · Electron/Mac app; agents as employees; git panel, cost dashboard, 8-bit soundtrack. `Open Source` (GPL-3.0)
 - [pixel-agent-desk](https://github.com/zep-ia/pixel-agent-desk) · Electron app with GitHub-style activity heatmap and token cost analytics. `Open Source`
@@ -193,9 +202,11 @@ A widely shared critique, *"This Viral AI Tool Does Nothing, But Developers Can'
 
 ## Rejected / unverified
 
-The following names never appeared in GitHub, Product Hunt, Hacker News, X, or general web search across multiple query attempts. Treat as possibly fabricated:
+The following names never appeared in GitHub, Product Hunt, Hacker News, or general web search across multiple query attempts. Treat as possibly fabricated:
 
-`BagIdea Office` · `PixelDesk` · `KozyAgent` · `AI Agent Visualization` (gridchins.ru)
+`KozyAgent` · `AI Agent Visualization` (gridchins.ru)
+
+Previously listed here as unverified, now confirmed and included: **BagIdea Office**, **PixelDesk**.
 
 <br>
 

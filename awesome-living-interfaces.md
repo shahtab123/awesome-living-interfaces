@@ -43,6 +43,15 @@ A curated, **verified** database of living software: tools that visualize agents
 | **opencode-pixel-office** | OpenCode + Claude Code | [ddx-510.github.io/opencode-pixel-office](https://ddx-510.github.io/opencode-pixel-office) | Open source |
 | **AI Factory Floor** | ChatDev-inspired multi-agent factory; PixiJS floor with speech bubbles and live task board | [KyleBuildsAI/ai-factory-floor](https://github.com/KyleBuildsAI/ai-factory-floor) | Open source |
 | **Mission Control Office Prompt Kit** | Interactive prompt kit + tutorial to build a local Claude Code pixel office (team, characters, map, app) | [Demo](https://noobster97.github.io/youtube-video-local-agent-mission-control-ui-dashboard/) · [YouTube](https://www.youtube.com/watch?v=knZuRQi2Gag) | Tutorial / kit |
+| **Pixel Office (KalebKE)** | Claude Code + Codex lifecycle hooks; patrol/chat when idle | [KalebKE/PixelOffice](https://github.com/KalebKE/PixelOffice) | Open source |
+| **Agent Virtual Office** | Browser SVG office for Claude Code, Codex, Gemini, CI | [KbWen/agent-virtual-office](https://github.com/KbWen/agent-virtual-office) | Open source |
+| **PixelOps** | Tauri isometric office; stations by tool activity | [michaelpentz/PixelOps](https://github.com/michaelpentz/PixelOps) | Open source |
+| **Munder Difflin** | Multi-CLI hive on Pixi.js floor; Michael orchestrator | [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) | Open source |
+| **AgentOffice (fakeou)** | Local supervisor; Claude/Codex employees + terminal | [fakeou/agent-office](https://github.com/fakeou/agent-office) | Open source |
+| **Sage Team** | 11 Claude Code agents; PixiJS isometric company office | [Petriccone/sage-team](https://github.com/Petriccone/sage-team) | Open source |
+| **BagIdea Office** | HD-2D Godot office as desktop wallpaper | [bagidea/bagidea-office](https://github.com/bagidea/bagidea-office) | Open source |
+| **PixelDesk** | Humans + agents in a shared top-down office | [pixeldesk.ai](https://pixeldesk.ai) | Open core |
+| **Clawd on Desk** | Pixel desktop pet for 20+ coding agents | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | Open source |
 
 ---
 
@@ -95,9 +104,9 @@ See [README.md](./README.md) for the full list across:
 
 ## Rejected / unverified
 
-`BagIdea Office` · `PixelDesk` · `KozyAgent` · `AI Agent Visualization` (gridchins.ru)
+`KozyAgent` · `AI Agent Visualization` (gridchins.ru)
 
-Previously rejected **Claw3D** is now verified at [ssun3/Claw3D](https://github.com/ssun3/Claw3D) and included in README.
+Previously rejected **Claw3D**, **BagIdea Office**, and **PixelDesk** are now verified and included.
 
 ---
 
