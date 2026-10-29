@@ -59,6 +59,8 @@ A curated list of **verified** projects in the "living interface" space: tools t
 - [agent-town (library)](https://github.com/rafapetter/agent-town) · Framework-agnostic Canvas library with 7 themed environments (office, space station, pirate ship, town, etc.). `Open Source`
 - [Pixel Office (Neolio42)](https://github.com/Neolio42/pixel-office) · Claude Code workers at desks with break room routing and browser approval for risky bash commands. `Open Source`
 - [RoadBitOffice](https://github.com/BlackRoad-Forge/RoadBitOffice) · PixiJS pixel office for multi-agent collaboration with gateway daemon and mobile pair-code access. `Open Source`
+- [AI Factory Floor](https://github.com/KyleBuildsAI/ai-factory-floor) · ChatDev-inspired multi-agent factory. Manager decomposes prompts; specialists work at PixiJS stations with speech bubbles and a live task board. `Open Source`
+- [Mission Control Office Prompt Kit](https://noobster97.github.io/youtube-video-local-agent-mission-control-ui-dashboard/) · Interactive prompt kit to design team, characters, and office map, then build a Claude Code pixel office. Tutorial: [YouTube](https://www.youtube.com/watch?v=knZuRQi2Gag). `Tutorial`
 
 ### Offices and life sims
 
@@ -123,6 +125,8 @@ A widely shared critique, *"This Viral AI Tool Does Nothing, But Developers Can'
 - [SimWorld](https://github.com/SimWorld-AI/SimWorld) · Unreal Engine 5 simulator for embodied LLM/VLM agents in open-ended physical and social worlds. `Open Source`
 - [SimWorld Studio](https://github.com/SimWorld-AI/SimWorld-Studio) · Chat-to-build UE5 scenes with embodied agent panel, trajectory maps, and pixel streaming. `Open Source`
 - [Caosmos UI](https://github.com/alexpicode/caosmos-ui) · PixiJS observer for the Caosmos simulation engine: citizen cognition, world state, and live map. `Experimental`
+- [Hermes3D](https://github.com/iamlukethedev/Hermes3D) · 3D virtual office for Hermes agents: desks, conversation circles, standups, PR review, plus optional Gather-style 2D pixel office. `Open Source`
+- [Ruang](https://github.com/yugienugraha/ruang) · Read-only 3D mission control for local Hermes Agent and OpenCode. Office rooms, Kanban, cron, sessions, memory, and logs via the hermes CLI. `Open Source`
 
 <br>
 

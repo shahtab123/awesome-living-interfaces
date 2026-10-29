@@ -41,6 +41,8 @@ A curated, **verified** database of living software: tools that visualize agents
 | **Agent Pixels** | Paperclip security-cam plugin | [agent-pixels.com](https://agent-pixels.com) | Free plugin |
 | **Moltcraft** | Isometric Moltbot world | [askmojo/moltcraft](https://github.com/askmojo/moltcraft) | Open source |
 | **opencode-pixel-office** | OpenCode + Claude Code | [ddx-510.github.io/opencode-pixel-office](https://ddx-510.github.io/opencode-pixel-office) | Open source |
+| **AI Factory Floor** | ChatDev-inspired multi-agent factory; PixiJS floor with speech bubbles and live task board | [KyleBuildsAI/ai-factory-floor](https://github.com/KyleBuildsAI/ai-factory-floor) | Open source |
+| **Mission Control Office Prompt Kit** | Interactive prompt kit + tutorial to build a local Claude Code pixel office (team, characters, map, app) | [Demo](https://noobster97.github.io/youtube-video-local-agent-mission-control-ui-dashboard/) · [YouTube](https://www.youtube.com/watch?v=knZuRQi2Gag) | Tutorial / kit |
 
 ---
 
@@ -59,11 +61,16 @@ A curated, **verified** database of living software: tools that visualize agents
 
 ---
 
-## 3D Worlds, Towns, Combat, Security, Fleet
+## 3D Worlds and Towns (additions)
 
-See [README.md](./README.md) for full entries in:
+| Project | Description | Link | Status |
+| :-- | :-- | :-- | :-- |
+| **Hermes3D** | 3D virtual office for Hermes agents; desks, standups, PR review, optional 2D pixel office mode | [iamlukethedev/Hermes3D](https://github.com/iamlukethedev/Hermes3D) | Open source |
+| **Ruang** | Read-only 3D Hermes/OpenCode mission control office (Indonesian-themed rooms, Kanban, cron, sessions) | [yugienugraha/ruang](https://github.com/yugienugraha/ruang) | Open source |
 
-- 3D Worlds and Towns (Agentshire, The Delegation, Claw3D, SimWorld, etc.)
+See [README.md](./README.md) for the full list across:
+
+- 3D Worlds and Towns (Agentshire, The Delegation, Claw3D, SimWorld, Hermes3D, Ruang, etc.)
 - Social Simulation Towns (Smallville, AI Town, Agent-Worlds)
 - Combat and Strategy Arenas (highnet AI Arena, Agent Colosseum, etc.)
 - Security War Rooms (SENTINEL SOC, ALISS, HatTrick, etc.)
