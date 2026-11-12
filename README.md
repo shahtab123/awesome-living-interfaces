@@ -136,6 +136,7 @@ A widely shared critique, *"This Viral AI Tool Does Nothing, But Developers Can'
 - [Caosmos UI](https://github.com/alexpicode/caosmos-ui) · PixiJS observer for the Caosmos simulation engine: citizen cognition, world state, and live map. `Experimental`
 - [Hermes3D](https://github.com/iamlukethedev/Hermes3D) · 3D virtual office for Hermes agents: desks, conversation circles, standups, PR review, plus optional Gather-style 2D pixel office. `Open Source`
 - [Ruang](https://github.com/yugienugraha/ruang) · Read-only 3D mission control for local Hermes Agent and OpenCode. Office rooms, Kanban, cron, sessions, memory, and logs via the hermes CLI. `Open Source`
+- [Agent Guild](https://github.com/oddessentials/agent-guild) · Coding-agent sessions as characters in a living 3D world, in any art style: six skins ship, each its own world, and you can make your own. The characters are the real sessions: start, type into and stop Claude Code, Codex CLI, Antigravity CLI, Grok Build and Docker Agent from the Yard, on desktop, phone and VS Code. Demo: [try the Yard](https://oddessentials.github.io/agent-guild/?view=yard). `Open Source` (AGPL-3.0)
 
 <br>
 

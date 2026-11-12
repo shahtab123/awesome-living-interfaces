@@ -76,6 +76,7 @@ A curated, **verified** database of living software: tools that visualize agents
 | :-- | :-- | :-- | :-- |
 | **Hermes3D** | 3D virtual office for Hermes agents; desks, standups, PR review, optional 2D pixel office mode | [iamlukethedev/Hermes3D](https://github.com/iamlukethedev/Hermes3D) | Open source |
 | **Ruang** | Read-only 3D Hermes/OpenCode mission control office (Indonesian-themed rooms, Kanban, cron, sessions) | [yugienugraha/ruang](https://github.com/yugienugraha/ruang) | Open source |
+| **Agent Guild** | Coding-agent sessions as characters in a living 3D world, one world per skin; each character is a real terminal session you can open and control | [oddessentials/agent-guild](https://github.com/oddessentials/agent-guild) | Open source |
 
 See [README.md](./README.md) for the full list across:
 
