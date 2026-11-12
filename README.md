@@ -87,6 +87,7 @@ A curated list of **verified** projects in the "living interface" space: tools t
 
 - [pixtuoid](https://github.com/IvanWng97/pixtuoid) · Terminal-native Rust app, half-block pixel art, 9+ agent CLIs, office cat/dog. `Open Source`
 - [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) · Pixel desktop pet for 20+ coding agents; animated states, permission bubbles, session HUD, mobile PWA. Site: [clawdondesk.com](https://clawdondesk.com/). `Open Source`
+- [Grove Companion](https://github.com/oddessentials/agent-guild-companions) · A Grove spirit that lives on your desktop and reacts to your Agent Guild sessions as they work. Pick a spirit or add your own characters. Windows and macOS. `Open Source` (AGPL-3.0)
 - [pixel-office-openclaw](https://github.com/neomatrix25/pixel-office-openclaw) · Auto-detects local OpenClaw instances. Express + Canvas. `Open Source`
 - [Outworked](https://github.com/outworked/outworked) · Electron/Mac app; agents as employees; git panel, cost dashboard, 8-bit soundtrack. `Open Source` (GPL-3.0)
 - [pixel-agent-desk](https://github.com/zep-ia/pixel-agent-desk) · Electron app with GitHub-style activity heatmap and token cost analytics. `Open Source`
@@ -137,6 +138,8 @@ A widely shared critique, *"This Viral AI Tool Does Nothing, But Developers Can'
 - [Hermes3D](https://github.com/iamlukethedev/Hermes3D) · 3D virtual office for Hermes agents: desks, conversation circles, standups, PR review, plus optional Gather-style 2D pixel office. `Open Source`
 - [Ruang](https://github.com/yugienugraha/ruang) · Read-only 3D mission control for local Hermes Agent and OpenCode. Office rooms, Kanban, cron, sessions, memory, and logs via the hermes CLI. `Open Source`
 - [Agent Guild](https://github.com/oddessentials/agent-guild) · Coding-agent sessions as characters in a living 3D world, in any art style: six skins ship, each its own world, and you can make your own. The characters are the real sessions: start, type into and stop Claude Code, Codex CLI, Antigravity CLI, Grok Build and Docker Agent from the Yard, on desktop, phone and VS Code. Demo: [try the Yard](https://oddessentials.github.io/agent-guild/?view=yard). `Open Source` (AGPL-3.0)
+- [Agent Guild: Builders](https://github.com/oddessentials/agent-guild-builders) · World editor for Agent Guild Yards: shape land, paint ground, set water, sky and light, and place things, or let your coding agent build the environment over MCP while you watch. Windows and macOS, free beta. `Open Source` (AGPL-3.0)
+- [Agent Guild: Studio](https://github.com/oddessentials/agent-guild-studio) · Character maker for Agent Guild: turn your own model files into crew characters and companions, recolor a world's own looks, or let your coding agent make them over MCP. Windows and macOS, free beta. `Open Source` (AGPL-3.0)
 
 <br>
 
