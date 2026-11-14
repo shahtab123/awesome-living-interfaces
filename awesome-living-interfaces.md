@@ -1,6 +1,6 @@
 # Awesome Living Interfaces
 
-A curated, **verified** database of living software: tools that visualize agents, systems, or activity as **characters, worlds, or spatial arenas**, not plain logs, charts, or exchange homepages.
+A curated collection of **game-inspired software, living interfaces, world UIs, and playful productivity tools** where applications and **AI agents** are represented as interactive worlds instead of traditional dashboards. Coding agents become office workers, fleets become towns, and system activity becomes something you can walk through and watch.
 
 > **Research method:** Every entry was checked against GitHub, Product Hunt, Hacker News, Reddit, X, or the project's own site. Links below use canonical repos where projects transferred owners. See [Checked, not included](#checked-not-included) and [Rejected / unverified](#rejected--unverified).
 

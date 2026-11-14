@@ -8,7 +8,7 @@
 [![Verified](https://img.shields.io/badge/entries-verified-blue)](#research-method)
 [![CC0](https://img.shields.io/badge/license-CC0-lightgrey)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**Living software:** tools that turn AI agents, systems, and activity into characters, worlds, and arenas instead of logs and dashboards.
+**Living software:** game-inspired tools and world UIs where AI agents and apps show up as characters and places, not logs and dashboards.
 
 </div>
 
@@ -16,7 +16,9 @@
 
 ## What is this?
 
-A curated list of **verified** projects in the "living interface" space: tools that visualize agents, systems, or activity as **characters, worlds, or spatial arenas**, not plain logs, charts, or exchange homepages. Each entry was checked against GitHub, Product Hunt, Hacker News, Reddit, X, or the project's own site.
+A curated collection of **game-inspired software, living interfaces, world UIs, and playful productivity tools** where applications and **AI agents** are represented as interactive worlds instead of traditional dashboards. Coding agents become office workers, fleets become towns, and system activity becomes something you can walk through and watch.
+
+Each entry was checked against GitHub, Product Hunt, Hacker News, Reddit, X, or the project's own site.
 
 <br>
 
