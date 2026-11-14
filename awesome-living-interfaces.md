@@ -52,6 +52,10 @@ A curated, **verified** database of living software: tools that visualize agents
 | **BagIdea Office** | HD-2D Godot office as desktop wallpaper | [bagidea/bagidea-office](https://github.com/bagidea/bagidea-office) | Open source |
 | **PixelDesk** | Humans + agents in a shared top-down office | [pixeldesk.ai](https://pixeldesk.ai) | Open core |
 | **Clawd on Desk** | Pixel desktop pet for 20+ coding agents | [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) | Open source |
+| **My Virtual Office** | Self-hosted 2D office for OpenClaw, Hermes, Codex, Claude Code | [eliautobot/my-virtual-office](https://github.com/eliautobot/my-virtual-office) | Open source |
+| **Agents Office** | 3D isometric Claude Code office; departments, Brain, approvals | [ajsahni/agents-office](https://github.com/ajsahni/agents-office) | Source available |
+| **Agent Guild** | 3D world; CLI agents as characters on every screen | [oddessentials/agent-guild](https://github.com/oddessentials/agent-guild) | Open source |
+| **iRIXI Office Agent** | Victorian office of animal colleagues; macOS personal agent | [Irixil/irixi-office-agent](https://github.com/Irixil/irixi-office-agent) | Open source |
 
 ---
 
@@ -76,6 +80,15 @@ A curated, **verified** database of living software: tools that visualize agents
 | :-- | :-- | :-- | :-- |
 | **Hermes3D** | 3D virtual office for Hermes agents; desks, standups, PR review, optional 2D pixel office mode | [iamlukethedev/Hermes3D](https://github.com/iamlukethedev/Hermes3D) | Open source |
 | **Ruang** | Read-only 3D Hermes/OpenCode mission control office (Indonesian-themed rooms, Kanban, cron, sessions) | [yugienugraha/ruang](https://github.com/yugienugraha/ruang) | Open source |
+| **Agent Office 3D (cspgabriel)** | Multica agents in a Rio rooftop 3D office | [cspgabriel/agent-office-3d](https://github.com/cspgabriel/agent-office-3d) | Open source |
+| **Agent Office 3D (jefferysha)** | Low-poly coding-agent status office; idle Minecraft break | [jefferysha0627/agent-office-3d](https://github.com/jefferysha0627/agent-office-3d) | Open source |
+| **DeskRPG** | 3D Hermes office; desks, meetings, kanban, cron, shared floor | [dandacompany/deskrpg](https://github.com/dandacompany/deskrpg) | Open source |
+| **Offivo** | Isometric Three.js office for Hermes AgentOS subagents | [OneByJorah/offivo](https://github.com/OneByJorah/offivo) | Open source |
+| **AI Office (linhvvn)** | Local 3D office; Claude Code / Codex / chat sessions as staff | [linhvvn/ai-office](https://github.com/linhvvn/ai-office) | Open source |
+| **AgentOfficeHQ** | 3D HQ; delegate, review, approvals, budgets | [enciyo/AgentOfficeHQ](https://github.com/enciyo/AgentOfficeHQ) | Open source |
+| **Extalia Virtual Agent** | 3D office for Codex, Claude Code, Gemini, Antigravity, Hermes | [Extalia-VO/extalia-virtual-agent](https://github.com/Extalia-VO/extalia-virtual-agent) | Open source |
+| **AI Agent Company** | Steer Claude/Codex/Antigravity across machines in 3D | [buidangminh23/ai-agent-company](https://github.com/buidangminh23/ai-agent-company) | Open source |
+| **ineedhood-tech** | 3D office showing live AI agent activity | [salsabila2507/ineedhood-tech](https://github.com/salsabila2507/ineedhood-tech) | Open source |
 
 See [README.md](./README.md) for the full list across:
 
@@ -99,6 +112,7 @@ See [README.md](./README.md) for the full list across:
 | Graph orchestration | Agent Flow, LangGraph Studio | DAG/flow views |
 | DevOps digital twins | Azure Digital Twins, Omniverse | IoT modeling, not agent worlds |
 | Broken fork link | `hyungseokyoon/pixel-agents-gemini` | 404; use `ajjamus/pixel-agents-gemini` |
+| Human remote-team virtual offices | SkyOffice, TinyFloor, Meetropolis, Hiroba | Coworking for people, not AI-agent worlds |
 
 ---
 

@@ -67,10 +67,14 @@ A curated list of **verified** projects in the "living interface" space: tools t
 - [Munder Difflin](https://github.com/HarnessMD/munder-difflin) · Multi-agent harness: real CLI agents as Pixi.js office avatars, Michael orchestrator, flying message envelopes, shared memory. `Open Source`
 - [AgentOffice (fakeou)](https://github.com/fakeou/agent-office) · Local-first supervisor: Claude and Codex as employees with statuses, click-to-terminal, and remote relay. Site: [agentoffice.top](https://agentoffice.top). `Open Source`
 - [Sage Team](https://github.com/Petriccone/sage-team) · Eleven Claude Code agents as a software company with PixiJS isometric office, scrum board, and PR workflow. `Open Source`
+- [My Virtual Office](https://github.com/eliautobot/my-virtual-office) · Self-hosted 2D browser office for OpenClaw, Hermes, Codex, and Claude Code: pathfinding, meetings, chat, day/night. Site: [myvirtualoffice.ai](https://myvirtualoffice.ai/). `Open Source`
+- [Agents Office](https://github.com/ajsahni/agents-office) · 3D isometric Claude Code office with departments, Brain notes graph, routines, and approvals. Runs on your Claude login. `Source Available` (PolyForm Noncommercial)
+- [Agent Guild](https://github.com/oddessentials/agent-guild) · Living 3D world where Claude Code, Codex, Antigravity, Grok Build, Docker Agent, and shells each appear as characters on every screen. `Open Source`
 
 ### Offices and life sims
 
 - [BagIdea Office](https://github.com/bagidea/bagidea-office) · HD-2D Godot office as desktop wallpaper. Real Claude Code agents walk desks, hold meetings, ask permission at Security. Site: [bagidea.github.io/bagidea-office](https://bagidea.github.io/bagidea-office/). `Open Source`
+- [iRIXI Office Agent](https://github.com/Irixil/irixi-office-agent) · macOS personal AI agent with a living Victorian office of animal colleagues; desk states mirror real work. `Open Source`
 - [PixelDesk](https://pixeldesk.ai) · Top-down pixel office where humans and AI agents (Claude Code, Cursor, OpenClaw, Hermes, etc.) share a place with proximity chat and cost transparency. Docs: [pixeldesk-public](https://github.com/josueramosleites-collab/pixeldesk-public). `Open Core`
 - [AgentOffice](https://github.com/harishkotra/agent-office) · Self-growing office where agents hire interns. Phaser + React, Ollama-powered, capped at 7 agents. `Open Source`
 - [agents-in-the-office](https://github.com/gukosowa/agents-in-the-office) · Tauri app; NPCs mirror Claude Code / Gemini CLI actions; subagent badges, sound packs, i18n. `Open Source`
@@ -136,6 +140,15 @@ A widely shared critique, *"This Viral AI Tool Does Nothing, But Developers Can'
 - [Caosmos UI](https://github.com/alexpicode/caosmos-ui) · PixiJS observer for the Caosmos simulation engine: citizen cognition, world state, and live map. `Experimental`
 - [Hermes3D](https://github.com/iamlukethedev/Hermes3D) · 3D virtual office for Hermes agents: desks, conversation circles, standups, PR review, plus optional Gather-style 2D pixel office. `Open Source`
 - [Ruang](https://github.com/yugienugraha/ruang) · Read-only 3D mission control for local Hermes Agent and OpenCode. Office rooms, Kanban, cron, sessions, memory, and logs via the hermes CLI. `Open Source`
+- [Agent Office 3D (cspgabriel)](https://github.com/cspgabriel/agent-office-3d) · Live 3D Rio rooftop office for Multica workspace agents: tasks, meetings, schedules, and demo mode. `Open Source`
+- [Agent Office 3D (jefferysha)](https://github.com/jefferysha0627/agent-office-3d) · Low-poly 3D office for live coding-agent status; idle agents sneak off to play Minecraft (no tokens). `Open Source`
+- [DeskRPG](https://github.com/dandacompany/deskrpg) · Self-hosted 3D Hermes office: profiles as employees at desks with chat, meetings, kanban, cron, and shared real-time floor. `Open Source`
+- [Offivo](https://github.com/OneByJorah/offivo) · Animated isometric Three.js office for Hermes AgentOS subagents. `Open Source`
+- [AI Office (linhvvn)](https://github.com/linhvvn/ai-office) · Local 3D office where each employee is a Claude Code, Codex, or chat API session; assign work, approve, track cost. `Open Source`
+- [AgentOfficeHQ](https://github.com/enciyo/AgentOfficeHQ) · 3D HQ for coding agents: delegate work, follow live progress, review changes, manage approvals and budgets. `Open Source`
+- [Extalia Virtual Agent](https://github.com/Extalia-VO/extalia-virtual-agent) · 3D office + desktop/web workspace for Codex, Claude Code, Gemini CLI, Antigravity, and Hermes with reviewed hooks and Obsidian knowledge. `Open Source`
+- [AI Agent Company](https://github.com/buidangminh23/ai-agent-company) · 3D office to monitor and steer Claude, Codex, and Antigravity across machines with web approvals and agent-to-agent dispatch. `Open Source`
+- [ineedhood-tech](https://github.com/salsabila2507/ineedhood-tech) · 3D office that shows what your AI agents are doing in real time. `Open Source`
 
 <br>
 
@@ -197,6 +210,7 @@ A widely shared critique, *"This Viral AI Tool Does Nothing, But Developers Can'
 | CRM-as-houses, logistics warehouse | Generic gamified CRM SaaS and standard kanban tools | Gamification is not a living world; no spatial or character metaphor |
 | Pure graph orchestration UIs | [Agent Flow](https://github.com/patoles/agent-flow), LangGraph Studio, LangSmith | Flowcharts and trace timelines, not embodied characters or worlds |
 | Broken / unverified pixel forks | `hyungseokyoon/pixel-agents-gemini` (404) | Use [ajjamus/pixel-agents-gemini](https://github.com/ajjamus/pixel-agents-gemini) or upstream [pixel-agents-hq](https://github.com/pixel-agents-hq/pixel-agents) multi-provider support instead |
+| Human remote-team virtual offices | [SkyOffice](https://github.com/kevinshen56714/SkyOffice), [TinyFloor](https://github.com/JittoJoseph/TinyFloor), [Meetropolis](https://github.com/lass-machen/meetropolis), [Hiroba](https://github.com/ludo-technologies/hiroba) | Gather-style coworking for people (presence, spatial A/V); not AI-agent activity visualization |
 
 <br>
 
