@@ -56,6 +56,10 @@ A curated, **verified** database of living software: tools that visualize agents
 | **Agents Office** | 3D isometric Claude Code office; departments, Brain, approvals | [ajsahni/agents-office](https://github.com/ajsahni/agents-office) | Source available |
 | **Agent Guild** | 3D world; CLI agents as characters on every screen | [oddessentials/agent-guild](https://github.com/oddessentials/agent-guild) | Open source |
 | **iRIXI Office Agent** | Victorian office of animal colleagues; macOS personal agent | [Irixil/irixi-office-agent](https://github.com/Irixil/irixi-office-agent) | Open source |
+| **SkyOffice** | Immersive virtual office; Phaser, React, PeerJS, Colyseus | [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) | Open source |
+| **TinyFloor** | Browser virtual office for remote teams; walk-to-talk | [JittoJoseph/TinyFloor](https://github.com/JittoJoseph/TinyFloor) | Open source |
+| **Meetropolis** | Self-hosted 2D office with proximity spatial A/V | [lass-machen/meetropolis](https://github.com/lass-machen/meetropolis) | Open source |
+| **Hiroba** | Ultra-light 2D virtual office; Tauri + P2P voice | [ludo-technologies/hiroba](https://github.com/ludo-technologies/hiroba) | Open source |
 
 ---
 
@@ -112,7 +116,6 @@ See [README.md](./README.md) for the full list across:
 | Graph orchestration | Agent Flow, LangGraph Studio | DAG/flow views |
 | DevOps digital twins | Azure Digital Twins, Omniverse | IoT modeling, not agent worlds |
 | Broken fork link | `hyungseokyoon/pixel-agents-gemini` | 404; use `ajjamus/pixel-agents-gemini` |
-| Human remote-team virtual offices | SkyOffice, TinyFloor, Meetropolis, Hiroba | Coworking for people, not AI-agent worlds |
 
 ---
 

@@ -75,6 +75,10 @@ A curated list of **verified** projects in the "living interface" space: tools t
 
 - [BagIdea Office](https://github.com/bagidea/bagidea-office) · HD-2D Godot office as desktop wallpaper. Real Claude Code agents walk desks, hold meetings, ask permission at Security. Site: [bagidea.github.io/bagidea-office](https://bagidea.github.io/bagidea-office/). `Open Source`
 - [iRIXI Office Agent](https://github.com/Irixil/irixi-office-agent) · macOS personal AI agent with a living Victorian office of animal colleagues; desk states mirror real work. `Open Source`
+- [SkyOffice](https://github.com/kevinshen56714/SkyOffice) · Immersive virtual office with Phaser, React, Redux, PeerJS, and Colyseus. `Open Source`
+- [TinyFloor](https://github.com/JittoJoseph/TinyFloor) · Browser virtual office for remote teams: presence, walk-to-talk, meeting rooms. Site: [tinyfloor.com](https://tinyfloor.com). `Open Source`
+- [Meetropolis](https://github.com/lass-machen/meetropolis) · Self-hosted 2D virtual office with proximity spatial audio/video. AGPL-3.0 + MIT. `Open Source`
+- [Hiroba](https://github.com/ludo-technologies/hiroba) · Ultra-light 2D virtual office for remote teams; Tauri client, peer-to-peer voice. Site: [hirobaoffice.com](https://hirobaoffice.com/). `Open Source`
 - [PixelDesk](https://pixeldesk.ai) · Top-down pixel office where humans and AI agents (Claude Code, Cursor, OpenClaw, Hermes, etc.) share a place with proximity chat and cost transparency. Docs: [pixeldesk-public](https://github.com/josueramosleites-collab/pixeldesk-public). `Open Core`
 - [AgentOffice](https://github.com/harishkotra/agent-office) · Self-growing office where agents hire interns. Phaser + React, Ollama-powered, capped at 7 agents. `Open Source`
 - [agents-in-the-office](https://github.com/gukosowa/agents-in-the-office) · Tauri app; NPCs mirror Claude Code / Gemini CLI actions; subagent badges, sound packs, i18n. `Open Source`
@@ -210,7 +214,6 @@ A widely shared critique, *"This Viral AI Tool Does Nothing, But Developers Can'
 | CRM-as-houses, logistics warehouse | Generic gamified CRM SaaS and standard kanban tools | Gamification is not a living world; no spatial or character metaphor |
 | Pure graph orchestration UIs | [Agent Flow](https://github.com/patoles/agent-flow), LangGraph Studio, LangSmith | Flowcharts and trace timelines, not embodied characters or worlds |
 | Broken / unverified pixel forks | `hyungseokyoon/pixel-agents-gemini` (404) | Use [ajjamus/pixel-agents-gemini](https://github.com/ajjamus/pixel-agents-gemini) or upstream [pixel-agents-hq](https://github.com/pixel-agents-hq/pixel-agents) multi-provider support instead |
-| Human remote-team virtual offices | [SkyOffice](https://github.com/kevinshen56714/SkyOffice), [TinyFloor](https://github.com/JittoJoseph/TinyFloor), [Meetropolis](https://github.com/lass-machen/meetropolis), [Hiroba](https://github.com/ludo-technologies/hiroba) | Gather-style coworking for people (presence, spatial A/V); not AI-agent activity visualization |
 
 <br>
 
